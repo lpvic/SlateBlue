@@ -2,8 +2,9 @@
   "name": "slate-blue",
   "displayName": "Slate Blue",
   "description": "Slate Blue Color Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "https://github.com/lpvic/SlateBlue",
+  "publisher": "lpvic",
   "engines": {
     "vscode": "^1.96.0"
   },
