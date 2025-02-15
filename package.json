@@ -3,8 +3,8 @@
   "displayName": "Slate Blue",
   "description": "Slate Blue Color Theme",
   "icon": "resources/slate_blue_icon.png",
-  "version": "0.0.4",
-  "repository": "https://github.com/lpvic/SlateBlue",
+  "version": "0.0.5",
+  "repository": "https://github.com/lpvic/Theme_SlateBlue",
   "publisher": "lpvic",
   "engines": {
     "vscode": "^1.96.0"
